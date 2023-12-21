@@ -6,7 +6,8 @@ Domain : Travel Industry, Property management and Tourism
 Problem Statement :
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
-Airbnb Dashboard Link :
+Airbnb Dashboard Link : [link](https://public.tableau.com/views/AirbnbAnalysis_17026581881690/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 Libraries/Modules needed for the project!
 Plotly, Seaborn - (To plot and visualize the data)
